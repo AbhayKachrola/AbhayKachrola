@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhayKachrola](https://github.com/AbhayKachrola)
+- 👨‍💻 All of my projects are available at [https://github.com/AbhayKachrola](https://github.com/AbhayKachrola?tab=repositories)
 
 - 📫 How to reach me **abhaykachrola8200@gmail.com**
 
